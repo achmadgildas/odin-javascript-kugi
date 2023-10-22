@@ -10,3 +10,5 @@ https://parkercon.github.io/rock-paper-scissors/
 # Enjoy!
 
 # Need to make my version of this game 
+
+# I understands little about game functions
