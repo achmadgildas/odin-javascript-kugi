@@ -16,3 +16,5 @@ https://parkercon.github.io/rock-paper-scissors/
 # Learn about matrix/array and output/input in JS
 
 # continue learn about matrix in JSS
+
+# still learn
