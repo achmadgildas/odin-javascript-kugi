@@ -20,3 +20,5 @@ https://parkercon.github.io/rock-paper-scissors/
 # still learn
 
 # 27 Okt 2023 I am learning about type data Object in JS
+
+# continue all you need to do
